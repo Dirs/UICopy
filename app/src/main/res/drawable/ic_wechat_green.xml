@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportHeight="24"
+    android:viewportWidth="24"
+    >
+    <path
+        android:fillColor="@color/greenWeChat"
+        android:strokeColor="@color/greenWeChat"
+        android:strokeWidth="1"
+        android:pathData="M1,23l3,-4a10,9 0 1 1 2,2L1,23z"
+        />
+</vector>
